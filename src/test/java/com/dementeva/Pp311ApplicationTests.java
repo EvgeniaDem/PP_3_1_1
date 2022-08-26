@@ -1,4 +1,4 @@
-package com.dementeva.pp_3_1_1;
+package com.dementeva;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

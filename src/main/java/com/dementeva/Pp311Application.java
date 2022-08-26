@@ -1,4 +1,4 @@
-package com.dementeva.pp_3_1_1;
+package com.dementeva;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
